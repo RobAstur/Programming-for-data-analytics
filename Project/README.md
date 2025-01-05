@@ -26,6 +26,17 @@ It contains the number of homeless people in the country by region, sex, group a
 
 ## Analysis
 
+### Plots from individual tables.
+
+1)  _Evolution of Residential Property Price Index by Year_: In this plot we can see the effect of the financial crash in the Irish property market with Dublin reaching the lowest point in 2012 and the rest of the country in 2013. Since those inflexion points the prices of properties has increased dramatically across the country even doubling the prices in few regions. Is interesting to see the evolution of Dublin, the prices have overpass the Celtic tiger prices in 2024, although is not growing at the same pace of the rest of the country this can be because prices in Dublin are already much higher.
+
+2)  _Evolution of yearly unemployment rate in Ireland_: This plot shows the yearly unemployment rate in Ireland by sex and age group. In this situation we can see the same situation. We can see the impact of the financial crash in the employment rate in Ireland. To fully recover the employments rate Ireland, need more than 10 years and age group 14-24 the unemployment rate is still higher.
+Secondly it is interesting to see that after the financial crash the Male unemployment rate was higher across all the groups ages for almost a decade.  
+
+3)  _Evolution of Homelessness in Dublin by Gender_:
+
+
+
 ## References
 
 - **Reference 1**: [CSO Data](https://data.cso.ie/)
@@ -36,4 +47,6 @@ It contains the number of homeless people in the country by region, sex, group a
 - **Reference 6**: [Pandas - concat Function](https://pandas.pydata.org/docs/reference/api/pandas.concat.html)
 - **Reference 7**: [Pandas - DataFrame drop Function](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html)
 - **Reference 8**: [Spark by Examples - Convert String to Integer in Pandas](https://sparkbyexamples.com/pandas/pandas-convert-string-to-integer/)
+- **Reference 9**: https://www.datacamp.com/tutorial/python-seaborn-line-plot-tutorial
+
 
