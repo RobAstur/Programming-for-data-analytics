@@ -27,13 +27,20 @@ It contains the number of homeless people in the country by region, sex, group a
 ## Analysis
 
 ### Plots from individual tables.
+In this section we focus in few plots from individual tables. The analysis will be visual.
 
 1)  _Evolution of Residential Property Price Index by Year_: In this plot we can see the effect of the financial crash in the Irish property market with Dublin reaching the lowest point in 2012 and the rest of the country in 2013. Since those inflexion points the prices of properties has increased dramatically across the country even doubling the prices in few regions. Is interesting to see the evolution of Dublin, the prices have overpass the Celtic tiger prices in 2024, although is not growing at the same pace of the rest of the country this can be because prices in Dublin are already much higher.
 
 2)  _Evolution of yearly unemployment rate in Ireland_: This plot shows the yearly unemployment rate in Ireland by sex and age group. In this situation we can see the same situation. We can see the impact of the financial crash in the employment rate in Ireland. To fully recover the employments rate Ireland, need more than 10 years and age group 14-24 the unemployment rate is still higher.
 Secondly it is interesting to see that after the financial crash the Male unemployment rate was higher across all the groups ages for almost a decade.  
 
-3)  _Evolution of Homelessness in Dublin by Gender_:
+3)  _Evolution of Homelessness in Dublin by Gender_: For this section 2 different plots were create line and bar plots to see the evolution of homelessness in Dublin in the last years. The combination of both plots gives a clear picture of the issue. We can clearly see that homelessness in Dublin have constantly growth across genders. 
+
+### Plots from table combination
+This section will show plots and provide analysis with statistical tecniques.
+
+1)  
+
 
 
 
@@ -48,5 +55,6 @@ Secondly it is interesting to see that after the financial crash the Male unempl
 - **Reference 7**: [Pandas - DataFrame drop Function](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html)
 - **Reference 8**: [Spark by Examples - Convert String to Integer in Pandas](https://sparkbyexamples.com/pandas/pandas-convert-string-to-integer/)
 - **Reference 9**: https://www.datacamp.com/tutorial/python-seaborn-line-plot-tutorial
-
+- **Reference 10**: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.melt.html
+- **Reference 11**: https://www.datacamp.com/tutorial/settingwithcopywarning-pandas
 
