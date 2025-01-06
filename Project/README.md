@@ -34,7 +34,7 @@ In this section we focus in few plots from individual tables. The analysis will 
 2)  _Evolution of yearly unemployment rate in Ireland_: This plot shows the yearly unemployment rate in Ireland by sex and age group. In this situation we can see the same situation. We can see the impact of the financial crash in the employment rate in Ireland. To fully recover the employments rate Ireland, need more than 10 years and age group 14-24 the unemployment rate is still higher.
 Secondly it is interesting to see that after the financial crash the Male unemployment rate was higher across all the groups ages for almost a decade.  
 
-3)  _Evolution of Homelessness in Dublin by Gender_: For this section 2 different plots were create line and bar plots to see the evolution of homelessness in Dublin in the last years. The combination of both plots gives a clear picture of the issue. We can clearly see that homelessness in Dublin have constantly growth across genders. 
+3)  _Evolution of Homelessness in Dublin by Gender_: For this section 3 different plots were create. Line and bar plots to see the evolution of homelessness in Dublin in the last years. The combination of both plots gives a clear picture of the issue. We can clearly see that homelessness in Dublin have constantly growth across genders. Another bar plot to see the evolution across all the regions. Although homelessness is not growing at the same pace as in Dublin. The trend is showing an increase across all the regions.
 
 ### Plots from table combination
 This section will show plots and provide analysis with statistical tecniques.
