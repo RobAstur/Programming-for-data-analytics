@@ -28,7 +28,7 @@ The **property price index** contains the evolution of the property prices compa
 •	Age group: Select all.
 •	Sex: Male and Female. Initially I selected all but It was changed to Male and Female.
 
-**Homelessness rate**: Table were built from multiple tables. It was opened directly from the cloud. Websites can be found in the project.
+**Homelessness rate**: Table were built from multiple tables. It was opened directly from the cloud. Websites can be found in the project. Details about how to combine the tables can be found in the project.
 
 Data is available from 1998. It contains information about unemployment rate by age groups and sex.(Reference 1)
 It contains the number of homeless people in the country by region, sex, group age and type of accommodation provided. To create the table all the data was opened directly from the website month by month. Information cover from 2019 to October 2024. All the tables were combined to create a single table. In 2022 there was a change in the table, thus, few columns needed to be removed to create the final table. A new column was added to the tables to ensure dates were tracker and review the evolution. Finally, all the number were converted to integers. There were issues with numbers with comma (References 6,7,8).
@@ -55,8 +55,9 @@ Secondly it is interesting to see that after the financial crash the Male unempl
 
 ### Plots from table combination
 
-1)  
+1)  _Evolution of property index and unemployment rate over the years_: This plot is a combination of tables property index and unemployment rate and focus on Dublin. We can clearly see that when unemployment goes down, price property index increase. However, there is a point where unemployment can’t go down, but property price index is still raising. The calculation of the correlation shows a negative correlation of -0.49 which suggest that there is a moderate negative correlation between them. **Reference 14**
 
+2) _Evolution of property index and homelessness in Ireland over the years_: The last table show the evolution of the price property index and the homelessness in Dublin. For rest of the region can be seen replacing the filters. Visually we can see that both patrons evolve similarly. If we calculate the correlation between homelessness in Dublin and price index the results show a strong positive relation between the two variables with a positive value of 0.73. 
 
 
 
@@ -75,6 +76,7 @@ Secondly it is interesting to see that after the financial crash the Male unempl
 - **Reference 11**: [Datacamp-Errors](https://www.datacamp.com/tutorial/settingwithcopywarning-pandas)
 - **Reference 12**: [Pandas_statistics](https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html)
 - **Reference 13** [Pandas_Correlation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.corr.html)
+- **Reference 14** [Correlation_ranges](https://link.springer.com/article/10.1057/jt.2009.5)
 
 -----
 END
